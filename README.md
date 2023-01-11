@@ -10,6 +10,5 @@
 
 
 ## Demo
-<video width="320" height="240" controls>
-  <source src="Demo.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/122344784/211725169-aae79129-c511-4b0c-8b2b-65e6fb0ceae1.mp4
+
